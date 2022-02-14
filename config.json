@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "Herocraft",
+	"ip":"Herocraftnetwork.aternos.me",
+	"port": "12863",
+	"name": "Hero craft",
 	"auto-night-skip":"true"
 }
